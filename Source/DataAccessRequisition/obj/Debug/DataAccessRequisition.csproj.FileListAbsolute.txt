@@ -1,0 +1,9 @@
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\bin\Debug\DataAccessRequisition.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\bin\Debug\DataAccessRequisition.pdb
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\bin\Debug\Entities.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\bin\Debug\Entities.pdb
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\obj\Debug\DataAccessRequisition.csprojAssemblyReference.cache
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\obj\Debug\DataAccessRequisition.csproj.CoreCompileInputs.cache
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\obj\Debug\DataAccessRequisition.csproj.CopyComplete
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\obj\Debug\DataAccessRequisition.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\DataAccessRequisition\obj\Debug\DataAccessRequisition.pdb

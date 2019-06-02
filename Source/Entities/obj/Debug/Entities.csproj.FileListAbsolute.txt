@@ -1,0 +1,6 @@
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\Entities\bin\Debug\Entities.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\Entities\bin\Debug\Entities.pdb
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\Entities\obj\Debug\Entities.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\Entities\obj\Debug\Entities.pdb

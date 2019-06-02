@@ -1,0 +1,11 @@
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\bin\Debug\BusinessRequisition.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\bin\Debug\BusinessRequisition.pdb
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\obj\Debug\BusinessRequisition.csprojAssemblyReference.cache
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\obj\Debug\BusinessRequisition.csproj.CoreCompileInputs.cache
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\obj\Debug\BusinessRequisition.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\obj\Debug\BusinessRequisition.pdb
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\bin\Debug\DataAccessRequisition.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\bin\Debug\Entities.dll
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\bin\Debug\DataAccessRequisition.pdb
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\bin\Debug\Entities.pdb
+C:\Users\Erwin Pardo\source\repos\1012380194_Erwin_Pardo\Source\BusinessRequisition\obj\Debug\BusinessRequisition.csproj.CopyComplete
